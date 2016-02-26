@@ -1,0 +1,10 @@
+name: BedWarsTR
+main: BedWarsTR\Bedwars
+api: [1.0.0]
+version: 1.0.0
+author: PMTurkeyDevelopers
+
+commands:
+    bedwars:
+        description: Bedwars Turkce Pugin Komutu
+        aliases: [bw]
